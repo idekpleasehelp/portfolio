@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aba3aba7.css",
+    "main.js": "/portfolio/static/js/main.df02d9e9.js",
+    "static/media/shinjuku-japan-night-tokyo.jpg": "/portfolio/static/media/shinjuku-japan-night-tokyo.eb159180f27e6627edb5.jpg",
+    "static/media/xndmxrfhliweofif9jty.webp": "/portfolio/static/media/xndmxrfhliweofif9jty.0656be5b5a6df3ab4480.webp",
+    "static/media/-3-2.webp": "/portfolio/static/media/263a75529a1752b75d64f9f21fd07c92-3-2.8037375529e3e37abead.webp",
+    "index.html": "/portfolio/index.html",
+    "main.aba3aba7.css.map": "/portfolio/static/css/main.aba3aba7.css.map",
+    "main.df02d9e9.js.map": "/portfolio/static/js/main.df02d9e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba3aba7.css",
+    "static/js/main.df02d9e9.js"
+  ]
+}
